@@ -18,5 +18,6 @@ A Core Java console-based project developed to understand and apply fundamental 
 2. Run `TextClient.java`
 3. Register, login, and explore workouts
 
-## Author
-Mekala chinnakrishna.
+
+🧑‍💻 Created by: **Mekala Chinnakrishna**  
+🔗 [Visit LinkedIn](https://www.linkedin.com/feed/)
